@@ -5,10 +5,10 @@
 - 📫 Contate-me por e-mail: miltonneto0010@gmail.com / neto_baiano2006@hotmail.com
 - 😄 Pronouns: ele/dele
 
-<div style="display: inline_block" align="center">
+<div style="display: flex" align="center">
   <a href="https://github.com/MiltonMario">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiltonMario&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonMario&layout=compact&langs_count=7&theme=radical"/>
+  <img style="flex-direction: row" height="180em" src="https://github-readme-stats.vercel.app/api?username=MiltonMario&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img style="flex-direction: row" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonMario&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Milton-Html" height="40" width="50"
